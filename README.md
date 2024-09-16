@@ -22,7 +22,8 @@ Pseudocode:
 - Print length in cm (LCM)
 
 ### _Answer_
-![exercise1.png](algorithms-flowchart-exercise-JoseMuzquizG\flowcharts\exercise1.png)
+![exercise1.png](C:\Users\josea\Desktop\La carpeta\programming\m1-0924\algorithms-flowchart-exercise-JoseMuzquizG\flowcharts\exercise1.png)
+
 
 ## Exercise 2
 
@@ -35,23 +36,23 @@ Pseudocode:
 - Print A
 
 ### _Answer_
-![exercise2.png](algorithms-flowchart-exercise-JoseMuzquizG\flowcharts\exercise2.png)
+![exercise2.png](C:\Users\josea\Desktop\La carpeta\programming\m1-0924\algorithms-flowchart-exercise-JoseMuzquizG\flowcharts\exercise2.png)
 
 ## Exercise 3
 
 Write an algorithm and draw a flowchart that will read three numbers and prints the value of the largest number.
 
-> Given that the three numbers are not equal to each other)
+> Given that the three numbers are not equal to each other
 
 ### _Answer_
-![exercise3.png](algorithms-flowchart-exercise-JoseMuzquizG\flowcharts\exercise3.png)
+![exercise3.png](C:\Users\josea\Desktop\La carpeta\programming\m1-0924\algorithms-flowchart-exercise-JoseMuzquizG\flowcharts\exercise3.png)
 
 ## Exercise 4
 
 Write an algorithm and draw a flowchart to check the three number inputs whether a triangle is possible or not.
 
 ### _Answer_
-![exercise4.png](algorithms-flowchart-exercise-JoseMuzquizG\flowcharts\exercise4.png)
+![exercise4.png](C:\Users\josea\Desktop\La carpeta\programming\m1-0924\algorithms-flowchart-exercise-JoseMuzquizG\flowcharts\exercise4.png)
 
 ## Exercise 5
 
@@ -69,4 +70,4 @@ Display the grades as per the table given below:
 | Less than 40%                 | No Grade |
 
 ### _Answer_
-![exercise5.png](algorithms-flowchart-exercise-JoseMuzquizG\flowcharts\exercise5.png)
+![exercise5.png](C:\Users\josea\Desktop\La carpeta\programming\m1-0924\algorithms-flowchart-exercise-JoseMuzquizG\flowcharts\exercise5.png)
